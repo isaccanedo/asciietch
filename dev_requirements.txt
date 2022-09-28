@@ -1,0 +1,4 @@
+flake8>=3.5.0
+pytest>=3.0.6
+setuptools>=30
+tox
